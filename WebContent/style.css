@@ -1,0 +1,12 @@
+  body {background-color:#FAF0B3; margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%; font-family: "Times New Roman", Times, serif; color:#7C7151; }
+  p { font-size: 1em; color:black; text-indent: 2em; margin-top: .75em; margin-bottom: 0; font-weight: normal; }
+  li { font-size: 1em; color:black; margin-top: .75em; margin-bottom: 0; font-weight: normal; }
+  table { margin-top: .75em; }
+  td { margin-top: 0; margin-bottom: 0; font-weight: normal; }
+  th { margin-top: 0; margin-bottom: 0; font-weight: bold; }
+  caption { font-size: 1em; margin-top: 0; margin-bottom: 0;  font-weight: bold; }
+  h1 { font-size: 2em; text-indent: 0in; font-weight: bold}
+  h2 { font-size: 1.5em; text-indent: 0in; font-weight:bold; }
+  h3 { font-size: 1em; text-indent: 0in; font-weight:bold}
+  .bib { font-size: 1em; color:black; margin-left: 2em; text-indent: -2em; margin-top: .75em; margin-bottom: 0; font-weight: normal; }
+  .bq { font-size: 1em; color:black; text-indent: 0em; margin-top: .0em; margin-bottom: 0; font-weight: normal; }
